@@ -1,16 +1,16 @@
 *{
-    background-color:  #223004 ;
+    background-color:  #141414 ;
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    color: #0e1af9;;
+    color: #fff;;
 }
 .name{
-    font-size: 5rem;
+    font-size: 10rem;
     font-weight: 600;
     font-family: Arial, Helvetica, sans-serif;
-    filter: drop-shadow(10px 2px 4px red);
-    color: blueviolet;
+    filter: drop-shadow(10px 2px 4px rgb(248, 245, 245));
+    color: rgb(239, 233, 234);
 }
 .banner
 {
@@ -19,7 +19,7 @@
     background-position: center;
     max-width: 100%;
     background-repeat: no-repeat;
-    height: 600px;
+    height: 500px;
 }
 .posters
 {
@@ -28,7 +28,7 @@
      overflow-x: scroll;
      margin: 1% 0.5%;
 }
-.poster::-webkit-scrollbar
+.posters::-webkit-scrollbar
 {
     display: none ;
 }
@@ -40,15 +40,15 @@
 h1
 {
     padding-top: 3%;
-    padding-left: 20%;
+    font-size: 50PX;
+    padding-left: 2%;
     padding-bottom: 2%;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-style: italic;
 }
 h3
 {
-    text-align: center;
     font-weight: 400;
-    font-size: 0.0 rem;
+    font-size: 1 rem;
     padding: 2% 0;
 }
