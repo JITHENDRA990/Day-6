@@ -1,16 +1,16 @@
 *{
-    background-color:  #141414 ;
+    background-color:  black ;
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    color: #fff;;
+    color: red;;
 }
 .name{
     font-size: 10rem;
     font-weight: 600;
     font-family: Arial, Helvetica, sans-serif;
     filter: drop-shadow(10px 2px 4px rgb(248, 245, 245));
-    color: rgb(239, 233, 234);
+    color: red;
 }
 .banner
 {
@@ -46,7 +46,7 @@ h1
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-style: italic;
 }
-h3
+h2
 {
     font-weight: 400;
     font-size: 1 rem;
