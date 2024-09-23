@@ -1,0 +1,38 @@
+.first{
+    box-sizing: border-box;
+    border-color: black;
+    border: 5px solid black;
+    max-width: 500px;
+    height: 500px;
+    margin: 150px 500px;
+
+}
+.second{
+    box-sizing: border-box;
+    border-color: rgb(33, 8, 8);
+    border: 5px solid rgb(226, 68, 68);
+    max-width: 250px;
+    height: 225px;
+    margin: 141px;
+
+}
+.third{
+    box-sizing: border-box;
+    border-color: rgb(140, 131, 131);
+    border: 5px solid rgb(129, 7, 7);
+    max-width: 100px;
+    height: 100px;
+    margin: 50px;
+    border-radius:60%;
+
+
+}
+.fourth{
+    box-sizing: border-box;
+    border-color: rgb(140, 131, 131);
+    border: 5px solid rgb(129, 7, 7);
+    max-width: 75px;
+    height: 75px;
+    margin: 25px;
+    border-radius:30%;
+}
